@@ -5,6 +5,12 @@ html, body {
 .navbar {
   margin-bottom: 0;
 }
+.navbar .navbar-inner {
+  -webkit-border-radius: 0;
+     -moz-border-radius: 0;
+          border-radius: 0;
+
+}
 .container > footer {
   margin-top: 20px;
 }
